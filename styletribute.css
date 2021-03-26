@@ -1,0 +1,31 @@
+.narrow-center {
+    width: 500px;
+    margin: auto;
+}
+.small-heading {
+    font-size: 25px;
+    width: 500px;
+    margin: auto;
+}
+.center {
+    width: 1000px;
+    margin: auto;
+}
+.norman-img {
+    width: 1052px;
+    height: 652px;
+}
+.heading {
+    font-size: 50px;
+}
+.bold {
+    font-weight: bold;
+    font-size: 19px;
+}
+.note {
+    font-style: italic;
+}
+#bold {
+    font-weight: bold;
+    color: seashell;
+}
